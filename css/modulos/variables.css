@@ -1,0 +1,12 @@
+:root {
+  --primary-theme-color: #2a2020;
+  --primary-shadow-color: #ffffff80;
+  --primary-shadow-text-up: #ffffff;
+  --reverse-primary-shadow-color: #0000ff9b;
+  --reverse-secondary-shadow-color: #0000ff66;
+  --primary-text-color: #c9ff72;
+  --reverse-primary-text-color: #2600ff;
+  --primary-highlight-color: white;
+  --primary-font-family: 'Inconsolata', monospace;
+}
+
