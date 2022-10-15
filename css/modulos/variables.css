@@ -1,4 +1,5 @@
 :root {
+  scroll-behavior: smooth;
   --primary-theme-color: #2a2020;
   --primary-shadow-color: #ffffff80;
   --primary-shadow-text-up: #ffffff;
@@ -7,6 +8,7 @@
   --primary-text-color: #c9ff72;
   --reverse-primary-text-color: #2600ff;
   --primary-highlight-color: white;
+  --secondary-highlight-color: gold;
   --primary-font-family: 'Inconsolata', monospace;
 }
 

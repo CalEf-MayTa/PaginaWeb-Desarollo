@@ -1,16 +1,21 @@
-@import './modulos/buttons.css';
-@import './modulos/cards.css';
-@import './modulos/header.css';
-@import './modulos/layout.css';
-@import './modulos/menu.css';
-@import './modulos/nav.css';
-@import './modulos/variables.css';
-@import './modulos/hero.css';
 @import './modulos/animations.css';
+@import './modulos/variables.css';
+@import './modulos/layout.css';
+@import './modulos/header.css';
+@import './modulos/nav.css';
+@import './modulos/menu.css';
+@import './modulos/cards.css';
+@import './modulos/buttons.css';
+@import './modulos/hero.css';
+@import './modulos/swiper.css';
 
 .body {
   background-color: var(--primary-theme-color);
   color: var(--primary-text-color);
   font-family: var(--primary-font-family);
   margin: 0;
+}
+
+.main {
+  overflow: hidden;
 }
